@@ -4,9 +4,9 @@ const dxrkstarz = {
   hobbies:[  
     "Playing Video Games",  
     "Programming",  
-    "Sleeping"
-  ],  
-  skills:[
+    "Sleeping"  
+    ],  
+  skills:[  
     "HTML, CSS, JS",  
     "React",  
     "Python",
