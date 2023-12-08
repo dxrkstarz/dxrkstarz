@@ -1,6 +1,6 @@
 const dxrkstarz = {  
   name:"dxrkstarz",  
-  age:12.  
+  age:"1200 years".  
   hobbies:[  
     "Playing Video Games",  
     "Programming",  
