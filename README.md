@@ -11,5 +11,5 @@ const dxrkstarz = {
     "React",  
     "Python",
     "C#"  
-  ]
+  ]  
 }
